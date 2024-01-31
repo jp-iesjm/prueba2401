@@ -1,2 +1,8 @@
 nuevo fichero 
 creado 31/
+
+lineas para conflicto
+
+
+
+fin de fichero
